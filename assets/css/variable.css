@@ -1,0 +1,26 @@
+:root{
+
+    --body-bg:linear-gradient(180deg, #31363A 0%, #13171A 100%);
+    --buttonT-bg:linear-gradient(90.34deg, #FFA113 8.21%, #F4350A 60.11%);
+    background-blend-mode: darken;
+    --buttonG-bg:linear-gradient(90.34deg, #5A5752 8.21%, #89807E 60.11%);
+    background-blend-mode: darken;
+
+    --btn1-bg:linear-gradient(90.34deg, #FFA113 8.21%, #F4350A 60.11%);
+
+    --second-color: #22577A;
+    --all-bg:#0D1939;
+    --nav-color: #182958;
+    --green-color:#57CC99;
+    --icon-color:#3D8068;
+    --ed-color:#BBBBBB;
+    --a-color:#191825BF;
+
+    --span-color:rgba(96, 96, 96, 1);
+
+    ---eth-color:rgba(246, 206, 14, 1);
+
+    ---nft-color:#F6CE0E;
+    ---ft-color:black;
+
+}
